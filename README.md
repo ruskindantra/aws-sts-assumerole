@@ -29,6 +29,7 @@ The `~/.assumerole` file contains this:
       "aws_profile": "acme-bastion",
       "aws_account": "123456789012",
       "aws_mfa_arn": "arn:aws:iam::210987654321:mfa/rtytgat",
+      "aws_mfa_enabled": true,
       "aws_role": "read",
       "environment": [
         {
